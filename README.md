@@ -10,8 +10,8 @@
  using html css and react javascript 
 
 the main feature of this website are:
-- responsive header section with search icon and menu toggler using vanilla javascript.
-- responsive home section with parallax scrolling effect using vanilla javascript.
+- responsive header section with search icon and menu toggler using react javascript.
+- responsive home section with parallax scrolling effect using react javascript.
 - responsive about section using flexbox.
 - responsive products section using grid.
 - responsive services section using grid.
