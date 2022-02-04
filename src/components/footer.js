@@ -53,7 +53,7 @@ const Footer = () => {
 
                 </div>
 
-                <p className="credit"> created by <span>mr. web designer</span> | all rights reserved! </p>
+                <p className="credit"> created by <span>mr. Anton Wolynskii</span> | all rights reserved! </p>
 
             </section>
             </>
